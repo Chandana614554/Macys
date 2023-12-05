@@ -1,0 +1,30 @@
+*{
+    background-color: rgb(8, 78, 78);
+    color: white;
+    margin: 0px;
+    padding: 0px;
+}
+
+ul{
+    list-style-type:none;
+    box-sizing: border-box;
+    margin-left:15vw;
+    margin-top: 3vw;
+
+    
+   
+}
+
+li{
+   float: left;
+   padding-right: 60px;
+   font-size: 1rem;
+   position: relative;
+   text-align: center;
+   background-color:rgb(5, 50, 5);
+   width: 100px;
+   height: 40px;
+
+
+}
+

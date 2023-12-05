@@ -1,0 +1,25 @@
+*
+{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(42, 169, 42);
+}
+
+img{
+margin-top: 10%;
+margin-left: 20%;
+height: 400px;
+width: 400px;
+}
+
+span{
+    position: absolute;
+height: 180px;
+width: 15%;
+border: none;
+background-color: aliceblue;
+top: 50%;
+left: 50%;
+transform: translate(-50%);
+}
